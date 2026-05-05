@@ -1,7 +1,3 @@
-# “AÑO DE LA ESPERANZA Y EL FORTALECIMIENTO DE LA DEMOCRACIA”
-
-## Escuela Académica Profesional de Ingeniería de Sistemas  
-
 **ASIGNATURA:** Construcción de Software  
 **TEMA:** Perceptrón vs Multi-Layer Perceptron (MLP)  
 **DOCENTE:** ING. HUGO ESPETIA HUAMANGA  
